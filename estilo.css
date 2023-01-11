@@ -1,0 +1,19 @@
+ #pantalla-final{
+    display: none;
+ }
+ #pantalla-juego{
+    display: none;
+ }
+ .letra{
+    display: none;
+ }
+ .container-fluid{
+    padding: 2%;
+ }
+ .hola{
+   background-color:  #4f8fee;
+ }
+ #nose{
+    background-color: #93d8c3;
+ }
+ 
